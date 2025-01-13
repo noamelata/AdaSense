@@ -18,7 +18,7 @@ pip install --force-reinstall --no-cache-dir https://rosh-public.s3-eu-west-1.am
 ### Pretrained models
 We use pretrained model from [SDEdit](https://github.com/ermongroup/SDEdit) for the facial image experiment, and our own pre-trained diffusion models for medical images.
 
-Our model checkpoints will be published soon!
+The checkpoint used in the MRI model is available [here](https://drive.google.com/file/d/1Vzu0ixfV2CDnEGlSQjmlCOuw2gS10Ync/view?usp=sharing).
 
 ### Sampling from the model
 
