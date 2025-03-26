@@ -46,9 +46,7 @@ where the following are options
 
 ## Image Compression
 
-This section implements [Zero-Shot Image Compression with Diffusion-Based Posterior Sampling](https://arxiv.org/abs/2407.09896)
-
-Coming soon...
+Please refer to the implementation of [PSC: Posterior Sampling-Based Compression](https://arxiv.org/abs/2407.09896) at https://github.com/noamelata/PSC
 
 ## References and Acknowledgements
 ```BibTeX
@@ -57,12 +55,6 @@ Coming soon...
     author={Elata, Noam and Michaeli, Tomer and Elad, Michael},
     year={2024},
     journal={arXiv preprint arXiv:2407.08256},
-}
-@article{elata2024zero,
-  title={Zero-Shot Image Compression with Diffusion-Based Posterior Sampling},
-  author={Elata, Noam and Michaeli, Tomer and Elad, Michael},
-  journal={arXiv preprint arXiv:2407.09896},
-  year={2024}
 }
 ```
 This implementation is based on [DDRM](https://github.com/bahjat-kawar/ddrm).
